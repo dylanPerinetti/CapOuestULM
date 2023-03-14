@@ -23,7 +23,9 @@
             <div class="header-content">
             <h1 class="header-title"><?= $title ?></h1>
             <p class="header-subtitle">The Chavenay Aero Paris Ouest ULM - CAP OUEST ULM association provides its members with modern, high-performance ultralights for learning or traveling.</p>
-            <a  href="https://ffplum.fr/images/pdf/DECOUVRIR_2017_72dpi.pdf" target="_blank"><button class="btn btn-theme-color modal-toggle">Discover ULM through the FFPLUM</button></a>
+            <a  href="https://ffplum.fr/images/pdf/DECOUVRIR_2017_72dpi.pdf" target="_blank">
+                <button class="btn btn-theme-color modal-toggle">Discover ULM through the FFPLUM</button>
+            </a>
         </div>
     </header>
     <!-- end of page header -->
