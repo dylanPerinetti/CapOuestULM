@@ -4,6 +4,6 @@
     <div class="links">
         <a href="#">About</a>
         <a href="#">Explore</a>
-        <a href="#">Journal</a>
+        <a href="journal.php">Journal</a>
     </div>
 </footer>

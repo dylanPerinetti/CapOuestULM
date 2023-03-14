@@ -30,18 +30,18 @@
                     <div class="overlay"></div> 
                     <div class="des">
                         <h1 class="title">Discover</h1>
-                        <h6 class="subtitle">Discover our offers</p>
+                        <h6 class="subtitle">Discover our offers</h6>
                         <p>Come and make your childhood dream come true by climbing aboard our ultralights (plane or gyrocopter) for an introduction to piloting with an instructor in order to discover the principles of flight, the rudiments of piloting and to give you the desire to go further...</p>
                     </div>          
                 </a>
             </div>
             <div class="col-md-4">
                 <a href="javascript:void(0)" class="overlay-img">
-                    <img src="images/savanahMontagne.jpg" alt="Download free bootstrap 4 landing page, free boootstrap 4 templates, Download free bootstrap 4.1 landing page, free boootstrap 4.1.1 templates, weber Landing page">  
+                    <img src="images/savanahMontagne.jpg" alt="">  
                     <div class="overlay"></div> 
                     <div class="des">
                         <h1 class="title">Travel</h1>
-                        <h6 class="subtitle">Read more</p>
+                        <h6 class="subtitle">Read more</h6>
                         <p>Our travel planes are available to our members, after validation by our instructors.<br><br>They allow you to go fast and far, and to discover France thanks to the tight network of the territory.</p>
                     </div>          
                 </a>
@@ -52,7 +52,7 @@
                     <div class="overlay"></div> 
                     <div class="des">
                         <h1 class="title">Learn</h1>
-                        <h6 class="subtitle">More information</p>
+                        <h6 class="subtitle">More information</h6>
                         <p>Becoming an ultralight pilot (three axis or gyroplane) is not insurmountable.<br>It just requires a little perseverance.<br><br>Our volunteer instructors are at your service, combining pedagogy and rigor... without forgetting the conviviality!</p>
                     </div>          
                 </a>
@@ -92,7 +92,7 @@
             </div>  
         </div>
         <!-- end of row 2 -->
-        <a href="#">All Posts </a>
+        <a href="journal.php">All Posts </a>
     </div>
     <!-- end of page container -->
 
