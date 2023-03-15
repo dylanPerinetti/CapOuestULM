@@ -1,5 +1,6 @@
 <?php
-    $title = 'Home';
+    $title = "Home";
+    $subTitle = "Chavenay Aéro Paris Ouest ULM - CAP OUEST ULM is a 1901 association, affiliated to the FFPLUM, to discover ultralight aviation, learn to fly and travel...<br>We are based west of Paris, on the Chavenay airfield (78),30 mn from the Porte d'Auteuil."
 ?>
 <!DOCTYPE html>
 <html lang="fr">
@@ -12,7 +13,7 @@
 	<!-- end of page navbar -->
 
     <!-- page header -->
-    <?php require 'header.php'; ?>
+    <?php $title = "CAP OUEST ULM";require 'header.php';$title = "Home"; ?>
     <!-- end of page header -->
 
     <!-- page container -->
@@ -75,7 +76,7 @@
                     <img src="images/colineEtretat1.jpg" class="card-img" alt="">
                     <div class="card-body">
                         <h6 class="card-subtitle">9 July, 2022</h6>
-                        <h3 class="card-title">Etrtreta</h3>
+                        <h3 class="card-title">Etreta</h3>
                         <p>All the planes were out to fly over the splendid chalk cliffs of Etretat.</p>
                     </div>                  
                 </a>

@@ -1,5 +1,6 @@
 <?php
-    $title = 'Journal';
+    $title = "Journal";
+    $subTitle = "Our club has a great activity that you can follow on our website. But also you will be informed about the graduation of new members or the outings organized by the club.";
 ?>
 <!DOCTYPE html>
 <html lang="fr">
@@ -12,15 +13,7 @@
     <!-- end of page navbar -->
 
     <!-- page header -->
-    <header class="header">
-        <div class="overlay"></div>
-            <div class="header-content">
-            <h1 class="header-title"><?= $title ?></h1>
-            <a  href="https://ffplum.fr/images/pdf/DECOUVRIR_2017_72dpi.pdf" target="_blank">
-                <button class="btn btn-theme-color modal-toggle">Discover ULM through the FFPLUM</button>
-            </a>
-        </div>
-    </header>
+    <?php require 'header.php'; ?>
     <!-- end of page header -->
 
     <!-- page container -->
