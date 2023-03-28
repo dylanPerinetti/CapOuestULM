@@ -5,5 +5,6 @@
         <a href="about.php">About us</a>
         <a href="journal.php">Journal</a>
         <a href="#">Pilot</a>
+        <a href="../management/index.php">Management</a>
     </div>
 </footer>
